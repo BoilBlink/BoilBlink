@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoilBlink
-- 👀 I’m interested in learning about the world and becoming a god.
+- 👀 I’m interested in learning about blocks
 - 🌱 I’m currently learning the basics of CS.
 - 💞️ I’m looking to collaborate on IoS development projects in the future.
 - 📫 How to reach me: Drop me a DM, I'm an accessible ghost.
